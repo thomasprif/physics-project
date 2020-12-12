@@ -1,4 +1,3 @@
-console.log("Start");
 (function($) {
   $.fn.timeline = function() {
     var selectors = {
